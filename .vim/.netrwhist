@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/dvdhsu/Dropbox/dev/hughsball/lib/tasks'
+let g:netrw_dirhist_2='/Users/dvdhsu/Desktop'
+let g:netrw_dirhist_3='/Users/dvdhsu/Dropbox/dev/notifsta_webapp/app/models/notifications'
+let g:netrw_dirhist_4='/Users/dvdhsu/Dropbox/dev/swift/NotifstaReact'
+let g:netrw_dirhist_5='/Users/dvdhsu/Dropbox/dev/swift/NotifstaReact/js'
+let g:netrw_dirhist_6='/Users/dvdhsu/Dropbox/dev/swift/NotifstaReact/node_modules/react-native-looped-carousel'
+let g:netrw_dirhist_7='/Users/dvdhsu/Dropbox/dev/notifsta_api'
+let g:netrw_dirhist_8='/Users/dvdhsu/Dropbox/dev/notifsta_api/config'
+let g:netrw_dirhist_9='/Users/dvdhsu/Dropbox/dev/notifsta_api/log'
