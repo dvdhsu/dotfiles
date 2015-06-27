@@ -1,4 +1,5 @@
 set nocompatible              " be iMproved, required
+set backspace=indent,eol,start " fix some backspace issues
 filetype off                  " required
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
@@ -17,10 +18,8 @@ Plugin 'kchmck/vim-coffee-script'
 Plugin 'derekwyatt/vim-scala'
 Plugin 'kien/ctrlp.vim'
 Plugin 'flazz/vim-colorschemes'
-Plugin 'bling/vim-airline'
 Plugin 'Lokaltog/vim-easymotion'
 Plugin 'rking/ag.vim'
-Plugin 'Valloric/YouCompleteMe'
 Plugin 'pangloss/vim-javascript'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'shime/vim-livedown'
