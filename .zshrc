@@ -33,6 +33,10 @@ alias b="bundle exec"
 alias transfer=transfer
 alias apply-gitignore="!git ls-files -ci --exclude-standard -z | xargs -0r git rm --cached"
 
+# fuck -- https://github.com/nvbn/thefuck
+alias fuck='eval $(thefuck $(fc -ln -1 | tail -n 1)); fc -R'
+alias FUCK='fuck'
+
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
 
